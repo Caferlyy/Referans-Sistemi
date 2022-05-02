@@ -1,0 +1,140 @@
+"Phrases"
+{
+	"PrintInfo"
+	{
+		"tr"			"Bu sunucuda referans sistemi bulunmakta. !ref yazarak davet eden arkadaşını seçebiliniz."
+		"en"			"On the server there is a referral system, you can choose the player who invited you to the command !ref"
+	}
+	"main_menu_title"
+	{
+		"tr"			"! REFERANS SİSTEMİ !\n "
+		"en"			"Referral system\n "
+	}
+	"Select_inviter"
+	{
+		"tr"			"! DAVET EDEN SEÇ !"
+		"en"			"Select inviter"
+	}
+	"InfoTime"
+	{
+        "#format"		"{1:d},{2:d}"
+		"tr"			"Belirlenen süre boyunca sunucuda vakit geçirmen gerek\nЧерез {1} ч. {2} м. ."
+		"en"			"You have to play the minimum time to be able to select the player who invited you to\n after {1} h. {2} m. you can do this."
+	}
+	"Top10_Inviters"
+	{
+		"tr"			"! İLK 10 !\n "
+		"en"			"Top 10\n "
+	}
+	"WhyICant"
+	{
+		"tr"			"Neden Seçenek yok?"
+		"en"			"Why is there no choice?"
+	}
+	"Select_Player"
+	{
+		"tr"			"! OYUNCU SEÇ !"
+		"en"			"Select the player"
+	}
+	"not_available"
+	{
+		"tr"			"Böyle bir oyuncu bulunmuyor."
+		"en"			"This player is not available."
+	}
+	
+	"thanks_for_choose"
+	{
+		"tr"			"Davet eden kişyii seçtiğin için teşekkürler."
+		"en"			"Thank you for choosing the player who invited you."
+	}
+	"player_choose_you"
+	{
+        "#format"		"{1:N}"
+		"tr"			"Oyuncu {1} Seni davet ettiğin için seçti."
+		"en"			"Player {1} has chosen you as the invitee to the server."
+	}
+	"Select_Bonus"
+	{
+		"tr"			"! BONUS SEÇ !"
+		"en"			"Select bonus"
+	}
+	"Refuse"
+	{
+		"tr"			"! BONUSU İPTAL ET !"
+		"en"			"Refuse the bonus"
+	}
+	"choose_player_left"
+	{
+		"tr"			"Sizi Davet Eden Kişi Oyundan Çıktı."
+		"en"			"The player who invited you came out."
+	}
+	
+	"BonusCredits"
+	{
+        "#format"		"{1:d}"
+		"tr"			"Kredi {1} Kazanın."
+		"en"			"Get {1} credits"
+	}
+	"BonusVIP"
+	{
+		"tr"			"Vip Alın"
+		"en"			"Get VIP for "
+	}
+	"BonusCommand"
+	{
+		"tr"			"Gizli Bonus !"
+		"en"			"Secret bonus"
+	}
+	"BonusPoint"
+	{
+        "#format"		"{1:d}"
+		"tr"			"{1} Puan Al!"
+		"en"			"Get {1} point"
+	}
+	
+	"GiveCredits"
+	{
+        "#format"		"{1:d}"
+		"tr"			"Başarılı bir şekilde {1} Kredi Kazandın."
+		"en"			"You have successfully received {1} credits."
+	}
+	"GiveVIP"
+	{
+		"tr"			"Başarılı bir şekilde VIP aldın."
+		"en"			"You have successfully received a VIP."
+	}
+	"GiveCommand"
+	{
+		"tr"			"Başarıyla bir bonus aldınız."
+		"en"			"You have successfully received a bonus."
+	}
+	"GivePoints"
+	{
+		"tr"			"Başarılı şekilde  {1} bonus aldınız."
+		"en"			"You have successfully received {1} points."
+	}
+
+	"RefuseChat"
+	{
+		"tr"			"Bonusu İptal Ettin."
+		"en"			"You refused the bonus."
+	}
+	
+	"Loading_Data"
+	{
+		"tr"			"Verilerin yükleniyor. Beklemelisin."
+		"en"			"Your data is loading, wait!"
+	}
+	
+	"Back"
+	{
+		"tr"			"GERİ"
+		"en"			"Back"
+	}	
+	
+	"NoMatching"
+	{
+		"tr"			"Oyuncu Eşleşmedi \n"
+		"en"			"No matching players \n"
+	}	
+}
