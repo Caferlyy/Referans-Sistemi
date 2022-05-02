@@ -7,7 +7,7 @@
  | `!ref` | `!ref yazdıktan sonra .`  |
 
 # Kurulum
- **Kurulum için dosyaları doğru atarsanız ve databases.cfg dosyasına altta bulunan mysql kodunu koyarsanız sistem çalışacaktır.**
+ **Kurulum için dosyaları doğru atarsanız ve databases.cfg dosyasına altta bulunan kodu koyarsanız sistem çalışacaktır.**
 
  | VERİTABANI | 
 ```
@@ -31,4 +31,4 @@
 
 
 
-> [CAFERLY ! | CAFERLY] (https://hovn.com)
+> [! CAFERLY ! ] (https://hovn.com)
