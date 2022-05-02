@@ -10,8 +10,8 @@
  **Kurulum için dosyaları doğru atarsanız ve databases.cfg dosyasına altta bulunan mysql kodunu koyarsanız sistem çalışacaktır.**
 
  | VERİTABANI | 
-
-  ```  "referal_system"
+```
+  "referal_system"
     {
         "driver"    "sqlite"
         "host"        "localhost"
@@ -21,8 +21,7 @@
         //"timeout"    "0"
         "port"        "3306"
     }
-    ```
- 
+ ```
 
 **HLMOD sitesinden alıntıdır. Türkçeleştirilmiştir.**
 
